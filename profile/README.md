@@ -92,7 +92,7 @@ license.
 Found a bug? Open an issue on the repo it is in, or ask in
 [Discord](https://discord.gg/NYfNd7yq5n). Found a security problem in a
 package or in the registry? Send an email to
-[emberpm@gmail.com](mailto:emberpm@gmail.com), and do not open a public issue.
+[admin@emberpm.dev](mailto:admin@emberpm.dev), and do not open a public issue.
 The full rules are at [luaupm.com/policies](https://luaupm.com/policies).
 
 <small>Luau is a trademark of Roblox Corporation. Ember is an independent project, not affiliated with or endorsed by Roblox or the Luau team.</small>
